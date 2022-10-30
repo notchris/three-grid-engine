@@ -2,7 +2,7 @@
 
 A three.js implementation of Grid Engine: https://github.com/Annoraaq/grid-engine
 
-Created by notchris
+Note: WIP
 
 # Install / run
 `npm install`
